@@ -5,11 +5,13 @@ category: papers
 tags: co-author
 keywords: noac, af
 ---
-
-## Bleeding risk with dabigatran, rivaroxaban, warfarin, and antiplatelet agent in Asians with non-valvular atrial fibrillation.
-
-[Oncotarget](https://www.ncbi.nlm.nih.gov/pubmed/29228736?dopt=Abstract)
+##[Oncotarget](https://www.ncbi.nlm.nih.gov/pubmed/29228736?dopt=Abstract)
 2017 Oct 24;8(58):98898-98917. doi: 10.18632/oncotarget.22026. eCollection 2017 Nov 17.
+
+
+
+### Bleeding risk with dabigatran, rivaroxaban, warfarin, and antiplatelet agent in Asians with non-valvular atrial fibrillation.
+
 
 Chan YH   ,2,3, Yeh YH   1,2, Tu HT   4, Kuo CT   1,2, **Chang SH**   1,2,5, Wu LS   1,2, Lee HF   1,2, See LC   4,6,7.
 

@@ -5,10 +5,10 @@ category: papers
 tags: first
 keywords: noac, af, ddi
 ---
+## [JAMA](https://www.ncbi.nlm.nih.gov/pubmed/28973247?dopt=Abstract)
 
-## Association Between Use of Non-Vitamin K Oral Anticoagulants With and Without Concurrent Medications and Risk of Major Bleeding in Nonvalvular Atrial Fibrillation.
+### Association Between Use of Non-Vitamin K Oral Anticoagulants With and Without Concurrent Medications and Risk of Major Bleeding in Nonvalvular Atrial Fibrillation.
 
-[JAMA](https://www.ncbi.nlm.nih.gov/pubmed/28973247?dopt=Abstract)
 
 2017 Oct 3;318(13):1250-1259. doi: 10.1001/jama.2017.13883.
 

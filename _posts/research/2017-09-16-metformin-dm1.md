@@ -5,12 +5,10 @@ category: papers
 tags: senior
 keywords: pregnancy, dm
 ---
-
-## Maternal and fetal outcomes of pregnant women with type 1 diabetes, a national population study.
-
-[Oncotarget](https://www.ncbi.nlm.nih.gov/pubmed/29113335?dopt=Abstract)
+## [Oncotarget](https://www.ncbi.nlm.nih.gov/pubmed/29113335?dopt=Abstract)
 2017 Sep 16;8(46):80679-80687. doi: 10.18632/oncotarget.20952. eCollection 2017 Oct 6.
 
+### Maternal and fetal outcomes of pregnant women with type 1 diabetes, a national population study.
 
 Lin SF   1,2, Kuo CF   3,2, Chiou MJ   4, **Chang SH**   4,5,2.
 
