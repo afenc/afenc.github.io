@@ -1,7 +1,7 @@
 ---
 layout: post
-title: React 学习 - 开发环境搭建
-category: 技术
+title: blgginh on github and jekyll
+category: hack
 tags: React
 keywords: React
 ---

@@ -15,4 +15,3 @@ keywords: Vim
 
 关闭 `:set nonu`
 开启 `:set number`
-
