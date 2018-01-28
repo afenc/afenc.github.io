@@ -11,7 +11,7 @@ keywords: Atrial fibrillation, Dipeptidyl peptidase-4 inhibitor, Type 2 diabetes
 
 2017 Dec 19;16(1):159. doi: 10.1186/s12933-017-0640-5.
 
-Dipeptidyl peptidase-4 inhibitor decreases the risk of atrial fibrillation in patients with type 2 diabetes: a nationwide cohort study in Taiwan.
+### Dipeptidyl peptidase-4 inhibitor decreases the risk of atrial fibrillation in patients with type 2 diabetes: a nationwide cohort study in Taiwan.
 
 Chang CY   1, Yeh YH   1,2, Chan YH   1,2,3, Liu JR   4,5, **Chang SH**   1,2, Lee HF   1,2, Wu LS   1,2, Yen KC   1,2, Kuo CT   1,2, See LC   6,7,8.
 
