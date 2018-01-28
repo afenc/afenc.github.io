@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blgginh on github and jekyll
+title: blogging on github and jekyll
 category: hack
 tags: React
 keywords: React
