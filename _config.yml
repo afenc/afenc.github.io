@@ -1,30 +1,50 @@
-name: SHC note
-description: trivial notes on github
-url: ' '
-permalink: '/:year/:month/:day/:title.html'
+# Site settings
+title: 闫肃的博客
+email: suyan0830@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  闫肃的博客
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: http://yansu.org # the base hostname & protocol for your site
+rss_url: /pages/feed.xml
+author: Su Yan
+
+# Sidebar filter
+# Choose 'tag' or 'category' as filter in sidebar.
+filter: 'category'
+recent_num: 20
+
+# Social account
+twitter: suyan404
+weibo: suyan0830
+github: suyan
+instagram: suyan404
+linkedin: suyan404
+
+# avatar and Favicon
+avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+
+# disqus config
+disqus:
+  shortname: suyan-zh
+
+# google analytics config
+ga:
+  id: UA-54767140-1
+  url: yansu.org
+
+# Build settings
+permalink: /:year/:month/:day/:title.html
 markdown: kramdown
-nav:
-  - name: about
-    href: /about
-  - name: reference
-    href: /ref
-  - name: contact
-    href: 'mailto:ivantheterrible@1530to1584.gov?You%20are%20ooold...'
+highlighter: rouge
+mathjax: disabled
 sass:
-  style: ':compressed'
-excerpt_separator: <!-ex->
+  style: compressed
+
+# Jekyll Plugin
+# https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
 gems:
-  - jekyll-paginate
-paginate: 10
-paginate_path: '/page:num/'
-defaults:
-  - scope:
-      path: ''
-      type: pages
-    values:
-      layout: page
-  - scope:
-      path: ''
-      type: posts
-    values:
-      layout: post
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+
