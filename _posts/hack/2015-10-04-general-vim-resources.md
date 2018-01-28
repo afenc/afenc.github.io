@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vim 常用资源
-category: 资源
+category: hack
 tags: Vim
 keywords: Vim
 ---

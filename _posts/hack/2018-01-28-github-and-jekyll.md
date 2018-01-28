@@ -2,8 +2,8 @@
 layout: post
 title: blogging on github and jekyll
 category: hack
-tags: React
-keywords: React
+tags: github, jekyll
+keywords: github, jekyll
 ---
 # use the fxxxing google
 * read  [使用 GitHub 免費製作個人網站](https://gitbook.tw/chapters/github/using-github-pages.html)
