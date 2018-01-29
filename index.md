@@ -4,6 +4,6 @@ layout: post
 ---
 
 ## about me
-Trying to find something new
+Trying to find and do something new
 
-code from [Suyan Github](https://github.com/suyan/suyan.github.io)
+clone from [Suyan](https://github.com/suyan/suyan.github.io)
