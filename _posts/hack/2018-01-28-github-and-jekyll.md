@@ -6,9 +6,9 @@ tags: github, jekyll
 keywords: github, jekyll
 ---
 # use the fxxxing google
-* read  [使用 GitHub 免費製作個人網站](https://gitbook.tw/chapters/github/using-github-pages.html)
+* read  [使用 GitHub blogging](https://gitbook.tw/chapters/github/using-github-pages.html)
 *  fork this site  [yansu]{https://github.com/suyan/suyan.github.io}
-* gemfile is improtant
+* gemfile is improtant, you must install these plugins
 
 ```
 source 'https://rubygems.org'
