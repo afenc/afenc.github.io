@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maternal and fetal outcomes of pregnant women with type 1 diabetes, a national population study.
+title: Maternal and fetal outcomes of pregnant women with type 1 diabetes.
 category: senior
 tags: papers
 keywords: pregnancy, dm
