@@ -1,6 +1,5 @@
 ---
-title: Dipeptidyl peptidase-4 inhibitor decreases the risk of atrial fibrillation
-  in patients with type 2 diabetes
+title: DPP-4 inhibitor decreases the risk of AF in patients with type 2 diabetes
 layout: post
 category: co-author
 tags: papers
